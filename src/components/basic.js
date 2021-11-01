@@ -11,11 +11,8 @@ import Box from "@mui/material/Box";
 import Grid from "@mui/material/Grid";
 import AdapterDateFns from "@mui/lab/AdapterDateFns";
 import LocalizationProvider from "@mui/lab/LocalizationProvider";
-import TimePicker from "@mui/lab/TimePicker";
-// import DateTimePicker from '@mui/lab/DateTimePicker';
-import DesktopDatePicker from "@mui/lab/DesktopDatePicker";
 import Button from "@mui/material/Button";
-import { Typography, Input } from "@mui/material";
+import { Typography} from "@mui/material";
 import AddEventModal from "./addEventModal";
 // // date-fns
 // import DateAdapter from '@mui/lab/AdapterDateFns';
